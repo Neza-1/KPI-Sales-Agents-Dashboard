@@ -18,11 +18,11 @@ The dashboard screenshot displays the following headline figures:
 
   KPI                    Value shown
   -------------------- -------------
-  Total Calls                 18,300
-  Calls Reached                3,619
-  Calls Closed                 1,309
-  Value $ 706,195
-  Average Time (Sec)       106,796.3
+  Total Calls                 18,300 <br>
+  Calls Reached                3,619 <br>
+  Calls Closed                 1,309 <br>
+  Value $ 706,195 <br>
+  Average Time (Sec)       106,796.3 <br>
 
 *These are the values visible in the supplied dashboard screenshot; they
 may change when the underlying dataset or filters change.*
@@ -45,7 +45,7 @@ may change when the underlying dataset or filters change.*
 ## Key Performance Indicators
 
 -   **Total Calls:** Overall number of calls recorded.
--   **Calls Reached:** Number of calls in which contact was reached.
+-   **Calls Reached:** Number of calls in which contact was made.
 -   **Calls Closed:** Number of calls recorded as closed.
 -   **Values:** Sales value represented in the dashboard.
 -   **Average Time (Sec):** Average-time measure displayed by the
@@ -54,13 +54,7 @@ may change when the underlying dataset or filters change.*
 
 ## Dataset
 
-**Dataset link:** [Add the original dataset URL
-here]("C:/Users/Vincent/Downloads/Power BI/Dataset_Sales_Agents.xlsx")
-
-The dataset link was not included with the supplied dashboard image.
-Replace the placeholder above with the actual public dataset URL before
-publishing this repository. If the dataset is stored in this repository,
-add its relative file path instead (for example, `data/sales_data.csv`).
+**Dataset link:** <a href = "C:/Users/Vincent/Downloads/Power BI/Dataset_Sales_Agents.xlsx"> Click Here </a>
 
 ### Suggested data fields
 
@@ -82,9 +76,7 @@ dataset schema. Update it to match the actual dataset column names.
 ## Tools and Technologies
 
 The exact software and technologies used to build this dashboard were
-not identifiable from the screenshot. Add the tools used in your project
-here (for example, Microsoft Excel, Power BI, Tableau, SQL, or Python)
-and remove any tools that do not apply.
+not Microsoft Excel and Power BI.
 
 ## How to Use
 
@@ -125,5 +117,6 @@ repository.
 ## Author
 
 **Vincent MUNYANEZA**
-Call/ Whatsapp: +250782467855/ 0728428416
+Call/ Whatsapp: +250782467855/ 0728428416 <br>
+Email: munyaneza20100@gmail.com <br>
 https://www.linkedin.com/in/vincent-munyaneza-56390926a/
