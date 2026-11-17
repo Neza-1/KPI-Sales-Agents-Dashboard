@@ -21,7 +21,7 @@ The dashboard screenshot displays the following headline figures:
   Total Calls                 18,300
   Calls Reached                3,619
   Calls Closed                 1,309
-  Values                   \$706,195
+  Value $ 706,195
   Average Time (Sec)       106,796.3
 
 *These are the values visible in the supplied dashboard screenshot; they
@@ -55,7 +55,7 @@ may change when the underlying dataset or filters change.*
 ## Dataset
 
 **Dataset link:** [Add the original dataset URL
-here](DATASET_URL_REQUIRED)
+here]("C:/Users/Vincent/Downloads/Power BI/Dataset_Sales_Agents.xlsx")
 
 The dataset link was not included with the supplied dashboard image.
 Replace the placeholder above with the actual public dataset URL before
@@ -125,11 +125,5 @@ repository.
 ## Author
 
 **Vincent MUNYANEZA**
-
-Add your preferred professional links here, such as LinkedIn or
-portfolio URL.
-
-## License
-
-No license has been specified. Add a license only after deciding how you
-want others to use, modify, and distribute this project.
+Call/ Whatsapp: +250782467855/ 0728428416
+https://www.linkedin.com/in/vincent-munyaneza-56390926a/
