@@ -100,6 +100,7 @@ repository.
 
 ## Notes and Data Considerations
 
+-   Agent-name confidentiality: The names displayed in the dashboard (e.g., Alice, Bob, and Charlie) are fictitious names used for demonstration and confidentiality purposes. They are not the sales agents' actual names. <br>
 -   The figures shown in the screenshot are illustrative of the
     dashboard's current view and should not be treated as verified
     business results without checking the source data.
@@ -116,7 +117,7 @@ repository.
 
 ## Author
 
-**Vincent MUNYANEZA**
+**Vincent MUNYANEZA** <br>
 Call/ Whatsapp: +250782467855/ 0728428416 <br>
 Email: munyaneza20100@gmail.com <br>
 https://www.linkedin.com/in/vincent-munyaneza-56390926a/
